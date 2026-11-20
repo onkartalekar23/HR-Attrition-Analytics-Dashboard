@@ -37,6 +37,6 @@ The main purpose of this project is to analyze employee data and understand empl
 
 ## Dashboard Preview
 
-![HR Attrition Dashboard](HR-Employee-Attrition-Dashboard.png)
+![HR Attrition Dashboard](HR-Employee-Attrition-Dashboard1.png)
 ## Created By
 Onkar Talekar
